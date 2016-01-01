@@ -6,4 +6,10 @@ A little C program written on my Raspberry Pi to brush up on my aging C programm
 
 ```bash
 $ sudo ./morseCode
+Enter a sentance [a-Z,0-9], enter nothing to exit (max 80 characters) ...
+sos sos
+S ... O --- S ...    S ... O --- S ... 
+
+Enter a sentance [a-Z,0-9], enter nothing to exit (max 80 characters) ...
+
 ```
