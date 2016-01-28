@@ -6,7 +6,7 @@
 #include <unistd.h>
 
 #include "morse.h"
-#include "GPIO/gpio.h"
+#include "gpio/gpio.h"
 
 /*
  * Dot = 1 unit

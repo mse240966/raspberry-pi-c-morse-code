@@ -4,7 +4,7 @@
 #include <string.h>
 
 #include "morse.h"
-#include "GPIO/gpio.h"
+#include "gpio/gpio.h"
 
 static const int MAX_SENTANCE_LENGTH = 80;
 static void getSentance(char *sentance);
