@@ -4,6 +4,12 @@ A little C program written on my Raspberry Pi to brush up on my aging C programm
 
 ![buzzer](https://github.com/mse240966/raspberry-pi-c-morse-code/blob/master/docs/buzzer.png "Buzzer")
 
+## How to clone (with GPIO sub module)
+
+```bash
+git clone --recursive https://github.com/mse240966/raspberry-pi-c-morse-code.git
+```
+
 ## Example
 
 ```bash
